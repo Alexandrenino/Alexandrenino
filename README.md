@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Apaixonado por tecnologia, programação e aprendizado contínuo.
+Apaixonado por tecnologia, idiomas e aprendizado contínuo.
 Atualmente estudando Tecnologia da Informação e desenvolvendo habilidades em língua inglesa para atuar globalmente.
 Curioso por natureza, sempre buscando criar soluções simples para problemas reais.
 
