@@ -1,46 +1,47 @@
-# 👋 Hi, I’m Alexandre 
+# Alexandre Nino 👋
 
-📍 Brazil | Frontend & Web Developer (in progress)  
-🌍 Fluent in English | Learning Full Stack & AI Technologies
+Frontend Developer (Junior) | Career Transition | English Advanced
 
----
+Sou estudante de programação em transição de carreira, com foco em **Front-end** e evolução para **Full Stack**.  
+Tenho experiência prática em projetos acadêmicos, estágio e projetos pessoais, além de **inglês avançado**, o que me permite estudar, trabalhar e me comunicar em ambientes internacionais.
 
-## 🚀 About Me
-
-I'm a developer in training with experience building real projects using HTML, CSS, JavaScript and React.  
-I have advanced English, which helps me read documentation, learn new technologies and communicate effectively in international contexts.
-
-I enjoy building interfaces, solving problems and learning new tools like Node.js, APIs, and AI integration.  
-I’m focused on continuous improvement and ready for opportunities that allow me to grow technically and professionally.
+Atualmente estudo **HTML, CSS, JavaScript, Bootstrap e React**, com interesse crescente em **Inteligência Artificial e IA Generativa** aplicada a produtos e negócios.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Core
-HTML | CSS | JavaScript | React  
-Git & GitHub
-
-### 📚 Learning  
-Node.js | APIs | Generative AI | Python basics
-
----
-
-## 💼 Featured Projects
-
-🔹 **Spotify Clone – Front-end**  
-> Front-end project inspired by Spotify interface (study project).  
-🔗 https://github.com/Alexandrenino/spotify-clone-front-end
-
-🔹 **Best Price – E-commerce (Internship)**  
-> Front-end contribution in a team project (internship experience).
-
-🔹 **Fisk Landing Page (Future)**  
-> Personal authorial project focused on a real business application.
+- HTML5 | CSS3 | JavaScript  
+- Bootstrap | React (em aprendizado)  
+- Git | GitHub  
+- Noções de Backend e APIs REST  
+- IA Generativa (uso prático e estudos contínuos)
 
 ---
 
-## 📫 Contact
+## 📂 Projetos em Destaque
 
-LinkedIn: https://www.linkedin.com/in/alexandrenino18  
-GitHub: https://github.com/Alexandrenino
+### 🎵 Spotify Clone (Front-end)
+Clone da interface do Spotify desenvolvido como prática de **HTML, CSS e Bootstrap**, com foco em layout responsivo.
+
+🔗 Repositório: https://github.com/Alexandrenino/spotify-clone-front-end
+
+---
+
+### 🛒 Best Price – E-commerce (Projeto em grupo)
+Projeto desenvolvido durante estágio, atuando no **front-end**, criando páginas e componentes visuais.
+
+🔗 Repositório: (coloque o link aqui)
+
+---
+
+## 🎯 Objetivo Profissional
+
+Meu objetivo é consolidar minha base como **desenvolvedor Front-end**, evoluir para **Full Stack** e, no médio prazo, atuar em **oportunidades internacionais**, utilizando meu inglês avançado como diferencial.
+
+---
+
+## 🌍 Contato
+
+- LinkedIn: https://www.linkedin.com/in/alexandrenino18  
+- GitHub: https://github.com/Alexandrenino
