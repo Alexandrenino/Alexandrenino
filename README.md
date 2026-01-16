@@ -1,4 +1,4 @@
-# Alexandre 👋
+# Alexandre Souza 👋
 
 Frontend Developer (Junior) | Career Transition | English Advanced
 
