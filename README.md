@@ -1,165 +1,46 @@
-# Alexandre Souza
+# 👋 Hi, I’m Alexandre Nino
 
-**`Desenvolvedor Full Stack`**
-
-Apaixonado por tecnologia, idiomas e aprendizado contínuo.
-Atualmente estudando Tecnologia da Informação e desenvolvendo habilidades em língua inglesa para atuar globalmente.
-Curioso por natureza, sempre buscando criar soluções simples para problemas reais.
-
-🛠️ Stack em construção | 🌍 Futuro desenvolvedor full stack
-📚 Em constante evolução. Let's build something great!
-
-<p align="left">
-    <a>
-    <a href="https://github.com/Alexandrenino?tab=repositories&sort=stargazers">
-        <img 
-        />
-    </a>
-    <a href="https://github.com/Alexandrenino?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Alexandrenino?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+📍 Brazil | Frontend & Web Developer (in progress)  
+🌍 Fluent in English | Learning Full Stack & AI Technologies
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 About Me
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+I'm a developer in training with experience building real projects using HTML, CSS, JavaScript and React.  
+I have advanced English, which helps me read documentation, learn new technologies and communicate effectively in international contexts.
 
-<br/>
-<br/>
+I enjoy building interfaces, solving problems and learning new tools like Node.js, APIs, and AI integration.  
+I’m focused on continuous improvement and ready for opportunities that allow me to grow technically and professionally.
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Alexandrenino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 🛠️ Skills & Technologies
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrenino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 💻 Core
+HTML | CSS | JavaScript | React  
+Git & GitHub
 
-</p>
+### 📚 Learning  
+Node.js | APIs | Generative AI | Python basics
+
+---
+
+## 💼 Featured Projects
+
+🔹 **Spotify Clone – Front-end**  
+> Front-end project inspired by Spotify interface (study project).  
+🔗 https://github.com/Alexandrenino/spotify-clone-front-end
+
+🔹 **Best Price – E-commerce (Internship)**  
+> Front-end contribution in a team project (internship experience).
+
+🔹 **Fisk Landing Page (Future)**  
+> Personal authorial project focused on a real business application.
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://www.linkedin.com/in/alexandrenino18  
+GitHub: https://github.com/Alexandrenino
