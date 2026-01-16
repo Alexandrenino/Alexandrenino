@@ -1,4 +1,4 @@
-# Alexandre Nino 👋
+# Alexandre 👋
 
 Frontend Developer (Junior) | Career Transition | English Advanced
 
