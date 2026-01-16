@@ -31,8 +31,7 @@ Clone da interface do Spotify desenvolvido como prática de **HTML, CSS e Bootst
 ### 🛒 Best Price – E-commerce (Projeto em grupo)
 Projeto desenvolvido durante estágio, atuando no **front-end**, criando páginas e componentes visuais.
 
-🔗 Repositório: (coloque o link aqui)
-
+🔗 Repositório: https://github.com/EDuDz27/BestPrice-ecommerce.git
 ---
 
 ## 🎯 Objetivo Profissional
