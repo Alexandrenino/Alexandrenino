@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Alexandre Nino
+# 👋 Hi, I’m Alexandre 
 
 📍 Brazil | Frontend & Web Developer (in progress)  
 🌍 Fluent in English | Learning Full Stack & AI Technologies
