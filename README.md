@@ -22,9 +22,12 @@ Atualmente estudo **HTML, CSS, JavaScript, Bootstrap e React**, com interesse cr
 ## 🚀 Projetos em Destaque
 
 ### 🤖 AI Learning Companion
-Assistente de estudos com IA, desenvolvido de forma incremental utilizando engenharia de prompt e inteligência contextual.  
-🔗 Demo ao vivo: https://organized-learner.lovable.app 
-🔗 Repositório: https://github.com/Alexandrenino/ai-learning-companion
+Assistente de estudos com IA, desenvolvido de forma incremental utilizando engenharia de prompt e inteligência contextual.
+
+🔗 **Demo ao vivo:** https://organized-learner.lovable.app  
+
+🔗 **Repositório:** https://github.com/Alexandrenino/ai-learning-companion
+
 
 ### 🎧 Spotify Clone (Front-end)
 Clone da interface do Spotify desenvolvido para prática de front-end utilizando HTML, CSS e Bootstrap.  
