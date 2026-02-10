@@ -19,19 +19,21 @@ Atualmente estudo **HTML, CSS, JavaScript, Bootstrap e React**, com interesse cr
 
 ---
 
-## 📂 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-### 🎵 Spotify Clone (Front-end)
-Clone da interface do Spotify desenvolvido como prática de **HTML, CSS e Bootstrap**, com foco em layout responsivo.
+### 🤖 AI Learning Companion
+Assistente de estudos com IA, desenvolvido de forma incremental utilizando engenharia de prompt e inteligência contextual.  
+🔗 Demo ao vivo: https://alex-builds-ai.lovable.app  
+🔗 Repositório: https://github.com/Alexandrenino/ai-learning-companion
 
-🔗 Repositório: https://github.com/Alexandrenino/spotify-clone-front-end
+### 🎧 Spotify Clone (Front-end)
+Clone da interface do Spotify desenvolvido para prática de front-end utilizando HTML, CSS e Bootstrap.  
+🔗 https://github.com/Alexandrenino/spotify-clone-front-end
 
----
+### 🛒 Best Price – E-commerce (Projeto em Grupo)
+Site de e-commerce desenvolvido como parte de um projeto em grupo durante a experiência de estágio.  
+🔗 https://github.com/EDuDz27/BestPrice-ecommerce
 
-### 🛒 Best Price – E-commerce (Projeto em grupo)
-Projeto desenvolvido durante estágio, atuando no **front-end**, criando páginas e componentes visuais.
-
-🔗 Repositório: https://github.com/EDuDz27/BestPrice-ecommerce.git
 ---
 
 ## 🎯 Objetivo Profissional
