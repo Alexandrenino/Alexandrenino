@@ -1,51 +1,105 @@
-# Alexandre Souza 👋
+# 👋 Hi, I'm Alexandre Souza
 
-Frontend Developer (Junior) | Career Transition | English Advanced
+### Junior Front-End Developer | AI Enthusiast | Open to International Opportunities
 
-Sou estudante de programação em transição de carreira, com foco em **Front-end** e evolução para **Full Stack**.  
-Tenho experiência prática em projetos acadêmicos, estágio e projetos pessoais, além de **inglês avançado**, o que me permite estudar, trabalhar e me comunicar em ambientes internacionais.
+I'm a Brazilian developer with a degree in **Systems Analysis and Development** who is passionate about building modern web applications and continuously learning new technologies.
 
-Atualmente estudo **HTML, CSS, JavaScript, Bootstrap e React**, com interesse crescente em **Inteligência Artificial e IA Generativa** aplicada a produtos e negócios.
+My current focus is **Front-End Development** with **HTML, CSS, JavaScript and React**, while expanding my knowledge in **Artificial Intelligence**, **Generative AI**, and modern web development.
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-- HTML5 | CSS3 | JavaScript  
-- Bootstrap | React (em aprendizado)  
-- Git | GitHub  
-- Noções de Backend e APIs REST  
-- IA Generativa (uso prático e estudos contínuos)
+I enjoy solving problems, creating practical projects, and improving my skills every day.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 💻 Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* Bootstrap
+* React *(currently learning)*
+* Git & GitHub
+* REST APIs
+* Prompt Engineering
+* Generative AI
+
+---
+
+## 🚀 Featured Projects
+
+### 🦟 Mata Mosquito Game
+
+A browser game built with HTML, CSS and JavaScript featuring multiple difficulty levels, random enemy generation, countdown timer and lives system.
+
+🌐 **Live Demo:**
+https://alexandrenino.github.io/mata-mosquito-game/
+
+📂 **Repository:**
+https://github.com/Alexandrenino/mata-mosquito-game
+
+---
+
+### 🧮 JavaScript Calculator
+
+A responsive calculator built with JavaScript featuring keyboard support and basic arithmetic operations.
+
+🌐 **Live Demo:**
+https://alexandrenino.github.io/javascript-calculator/
+
+📂 **Repository:**
+https://github.com/Alexandrenino/javascript-calculator
+
+---
 
 ### 🤖 AI Learning Companion
-Assistente de estudos com IA, desenvolvido de forma incremental utilizando engenharia de prompt e inteligência contextual.
 
-🔗 **Demo ao vivo:** https://organized-learner.lovable.app  
+An AI-powered study assistant focused on contextual learning and prompt engineering.
 
-🔗 **Repositório:** https://github.com/Alexandrenino/ai-learning-companion
+🌐 **Live Demo:**
+https://organized-learner.lovable.app
 
-
-### 🎧 Spotify Clone (Front-end)
-Clone da interface do Spotify desenvolvido para prática de front-end utilizando HTML, CSS e Bootstrap.  
-🔗 https://github.com/Alexandrenino/spotify-clone-front-end
-
-### 🛒 Best Price – E-commerce (Projeto em Grupo)
-Site de e-commerce desenvolvido como parte de um projeto em grupo durante a experiência de estágio.  
-🔗 https://github.com/EDuDz27/BestPrice-ecommerce
+📂 **Repository:**
+https://github.com/Alexandrenino/ai-learning-companion
 
 ---
 
-## 🎯 Objetivo Profissional
+### 🎧 Spotify Clone
 
-Meu objetivo é consolidar minha base como **desenvolvedor Front-end**, evoluir para **Full Stack** e, no médio prazo, atuar em **oportunidades internacionais**, utilizando meu inglês avançado como diferencial.
+Front-end interface inspired by Spotify, developed to practice responsive layouts using HTML, CSS and Bootstrap.
+
+📂 **Repository:**
+https://github.com/Alexandrenino/spotify-clone-front-end
 
 ---
 
-## 🌍 Contato
+### 🛒 Best Price – E-commerce
 
-- LinkedIn: https://www.linkedin.com/in/alexandrenino18  
+Collaborative e-commerce project developed during my internship experience.
 
+📂 **Repository:**
+https://github.com/EDuDz27/BestPrice-ecommerce
+
+---
+
+## 🎯 Career Goal
+
+My goal is to grow as a **Full Stack Developer**, specialize in **Artificial Intelligence**, and contribute to innovative international teams while continuously improving my technical and communication skills.
+
+---
+
+## 🌍 Languages
+
+🇧🇷 Portuguese — Native
+
+🇺🇸 English — Advanced
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/alexandrenino18
+
+---
+
+> *"Continuous learning is the best investment for a developer."* 🚀
